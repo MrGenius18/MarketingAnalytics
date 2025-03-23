@@ -31,6 +31,13 @@ This project focuses on analyzing customer reviews using Python, querying data f
 
 ---
 
+## 📹 Demo Video
+[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+> 🎥 **Click the image above to watch the demo video!**
+
+---
+
 ## 🛠️ Tools and Technologies
 - **Python:** For data extraction, preprocessing, and sentiment analysis.
 - **SQL Server:** For querying and managing data.
