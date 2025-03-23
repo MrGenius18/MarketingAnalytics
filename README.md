@@ -32,7 +32,7 @@ This project focuses on analyzing customer reviews using Python, querying data f
 ---
 
 ## 📹 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the Demo](https://raw.githubusercontent.com/MrGenius18/MarketingAnalytics/main/presentation/demo_thumbnail.png)](https://github.com/MrGenius18/MarketingAnalytics/blob/main/presentation/Demo%20Marketing%20Analytics%20Dashboard.mp4)
 
 > 🎥 **Click the image above to watch the demo video!**
 
